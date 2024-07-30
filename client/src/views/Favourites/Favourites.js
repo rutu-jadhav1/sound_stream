@@ -1,8 +1,8 @@
 import React from 'react'
-
+import '../../../../client/src/global.css'
 function Favourites() {
   return (
-    <div>Favourites</div>
+    <div className='screen-container'>Favourites</div>
   )
 }
 
